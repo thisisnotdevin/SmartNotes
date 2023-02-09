@@ -15,7 +15,8 @@ body {
     background-color: #343541;
     color: white;
     padding: 20px;
- 
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
   }
   
 #title {
@@ -35,6 +36,8 @@ textarea {
     color: white;
     outline: none;
     border: none;
-
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    resize: none;
   }
   
