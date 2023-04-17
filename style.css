@@ -9,7 +9,14 @@ body {
     justify-content: center;
     height: 100vh;
   }
-  
+  .nombre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font: optional;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
 #title-bar {
     width: 59%;
     background-color: #343541;
